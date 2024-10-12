@@ -9,7 +9,9 @@ Data Science / Analysis: I thrive on transforming raw data into meaningful insig
 Machine Learning: I'm experienced in implementing machine learning algorithms to solve complex problems and enhance performance.
 💡 My Mission: I’m eager to leverage my expertise to tackle new challenges and drive innovation in the field of data science. I believe in continuous learning and am always looking for opportunities to grow and refine my skills.
 
-**📂 Explore My Work:** Feel free to check out my repositories, where you'll find projects showcasing my analytical skills and collaboration efforts. I welcome any feedback, collaboration, or discussion about data science!
+**📂 Explore My Work:** 
+
+Feel free to check out my repositories, where you'll find projects showcasing my analytical skills and collaboration efforts. I welcome any feedback, collaboration, or discussion about data science!
 
 
 
