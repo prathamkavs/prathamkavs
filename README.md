@@ -4,6 +4,8 @@ I'm a passionate data scientist with a proven track record of driving results th
 **🔍 What I Do:**
 
 Data Science / Analysis: I thrive on transforming raw data into meaningful insights that drive decision-making.
+
+
 Machine Learning: I'm experienced in implementing machine learning algorithms to solve complex problems and enhance performance.
 💡 My Mission: I’m eager to leverage my expertise to tackle new challenges and drive innovation in the field of data science. I believe in continuous learning and am always looking for opportunities to grow and refine my skills.
 
